@@ -129,7 +129,6 @@ export default {
   max-width: 600px;
   margin: auto;
 }
-
 .list-item {
   display: flex;
   align-items: center;
